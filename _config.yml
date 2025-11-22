@@ -1,0 +1,41 @@
+# GitHub Pages Configuration for CRUIZZI
+
+# Site settings
+title: CRUIZZI
+description: A beautiful, fast, and secure project
+author: magedalward
+
+# Build settings
+markdown: kramdown
+
+# GitHub metadata
+repository: magedalward/CRUIZZI
+
+# URL settings
+url: "https://magedalward.github.io"
+baseurl: "/CRUIZZI"
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore
+
+# Include files
+include:
+  - _pages
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO settings
+social:
+  name: CRUIZZI
+  links:
+    - https://github.com/magedalward/CRUIZZI
