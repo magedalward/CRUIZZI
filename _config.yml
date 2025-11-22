@@ -7,7 +7,6 @@ author: magedalward
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
 
 # GitHub metadata
 repository: magedalward/CRUIZZI
