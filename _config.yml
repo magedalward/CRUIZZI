@@ -3,7 +3,7 @@
 # Site settings
 title: CRUIZZI
 description: A beautiful, fast, and secure project
-author: magedalward 
+author: magedalward
 
 # Build settings
 markdown: kramdown
