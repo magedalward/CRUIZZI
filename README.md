@@ -1,8 +1,5 @@
 # CRUIZZI
-![GitHub last commit](https://img.shields.io/github/last-commit//magedalward/CRUIZZI)
-# MyProject 🚀
-![GitHub last commit](https://img.shields.io/github/last-commit/user/repo)
-![License](https://img.shields.io/github/license/user/repo)
+![GitHub last commit](https://img.shields.io/github/last-commit/magedalward/CRUIZZI)
 
 ## Description
 A short and clear description of what MyProject does.
