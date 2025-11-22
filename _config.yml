@@ -3,8 +3,7 @@
 # Site settings
 title: CRUIZZI
 description: A beautiful, fast, and secure project
-author: magedalward
-email: 
+author: magedalward 
 
 # Build settings
 markdown: kramdown
@@ -37,10 +36,6 @@ plugins:
   - jekyll-sitemap
 
 # SEO settings
-twitter:
-  username: 
-  card: summary
-
 social:
   name: CRUIZZI
   links:
